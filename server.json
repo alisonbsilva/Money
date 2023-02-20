@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 1953,
+      "createdAt": "2023-02-18T12:43:09.301Z"
+    },
+    {
+      "id": 2,
+      "description": "Carro Celta",
+      "type": "outcome",
+      "category": "Veiculos",
+      "price": 8953,
+      "createdAt": "2023-02-18T12:43:09.301Z"
+    },
+    {
+      "id": 3,
+      "description": "Pagamento do Mes",
+      "type": "income",
+      "category": "Salario",
+      "price": 12953,
+      "createdAt": "2023-02-18T12:43:09.301Z"
+    },
+    {
+      "description": "site",
+      "price": 3000,
+      "category": "jogos",
+      "type": "income",
+      "createdAt": "2023-02-19T12:38:30.534Z",
+      "id": 4
+    },
+    {
+      "description": "pc game",
+      "price": 5000,
+      "category": "diversao",
+      "type": "outcome",
+      "createdAt": "2023-02-19T12:39:25.730Z",
+      "id": 5
+    },
+    {
+      "description": "pizza",
+      "price": 50,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-19T13:07:20.911Z",
+      "id": 6
+    },
+    {
+      "description": "Refrigerante",
+      "price": 10,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-19T13:07:52.880Z",
+      "id": 7
+    }
+  ]
+}
